@@ -29,7 +29,7 @@ CSV File Viewer es una aplicación Flutter que permite gestionar archivos CSV de
 ## 📥 Instalación y Uso
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/tuusuario/csv_file_viewer.git
+   git clone https://github.com/Luixij/CSV_APP.git
    cd csv_file_viewer
    ```
 2. Instalar dependencias:
