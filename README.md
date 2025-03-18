@@ -4,6 +4,12 @@
 
 CSV File Viewer es una aplicación Flutter que permite gestionar archivos CSV de forma sencilla y eficiente. Puedes abrir, crear, visualizar, editar y guardar archivos CSV con una interfaz moderna basada en Material Design.
 
+## 📥 Descargar APK
+Puedes descargar la última versión aquí:
+
+[⬇️ Descargar APK v1.0.0](https://github.com/Luixij/CSV_APP/releases/tag/v1.0.0)
+
+
 ## 🚀 Características
 - 📄 Carga archivos CSV y muestra su contenido.
 - ✍️ Permite edición y actualización de datos.
