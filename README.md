@@ -58,6 +58,6 @@ Puedes descargar la última versión aquí:
 - Los archivos CSV se almacenan en el directorio de documentos del usuario.
 - Se maneja un control de errores para evitar corrupciones en los archivos.
 
-## 📜 Licenci
+## 📜 Licencia
 Este proyecto está bajo la licencia MIT. ¡Siéntete libre de contribuir! 🚀
 >>>>>>> 2760940 (🚀 Primera versión de csv_app_luis_imaicela)
